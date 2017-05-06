@@ -161,6 +161,5 @@ function compare(){
  });  
   $("#reset").click(function(){//Clicking the button resets the game
     reset();
-    setpattern();
   });
 });
