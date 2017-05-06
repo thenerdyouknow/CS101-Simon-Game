@@ -1,0 +1,62 @@
+body{
+  font-family:'Pacifico',monospace;
+  font-size:30px;
+}
+#topbtn{
+  background-color:#C20114;
+  width:300px;
+  height:300px;
+ border-top-left-radius:100%;
+  border: 15px solid white;
+}
+#botbtn{
+  background-color:#0582CA;
+  width:300px;
+  height:300px;
+  margin-right:90px;
+ border-top-right-radius:100%;
+    border: 15px solid white;
+}
+#botbtnlft{
+  background-color:#89DF49;
+  width:300px;
+  height:300px;
+  margin-right:90px;
+ border-bottom-right-radius:100%;
+    border: 15px solid white;
+}
+#topbtnlft{
+  
+  background-color:#FFD717;
+  width:300px;
+  height:300px;
+  border-bottom-left-radius:100%;
+    border: 15px solid white;
+}
+#topbtn:active{
+  background-color:#CE4849;
+}
+#botbtn:active{
+  background-color:#00A6FB;
+}
+#botbtnlft:active{
+  background-color:#96F550;
+}
+#topbtnlft:active{
+  background-color:#FFE773;
+}
+.container{
+  width:800px;
+  height:300px;
+  margin: 0 auto;
+  margin-left:30%;
+}
+.well{
+  width:180px;
+}
+body{
+  background-image:url("http://i.stack.imgur.com/jGlzr.png");
+}
+#strict{
+  background-color:red;
+}
